@@ -24,8 +24,10 @@ public class Main {
         descriptionStudent(padmaPatil);
         descriptionStudent(cedricDiggory);
         descriptionStudent(gregoryGoyle);
+
         System.out.println("Task3");
         Slytherin.comparisonProperties(dracoMalfoy,grahamMontague);
+
         System.out.println("Task4");
         Hogwarts.comparisonPropertiesHogwarts(zachariahSmith, hermioneGranger);
 
