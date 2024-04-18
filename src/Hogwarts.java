@@ -10,7 +10,6 @@ public class Hogwarts {             //все ученики школы Хогв�
         return "Студент " + name + "колдовать с мощностью=" + conjurePower +
                 ", трансгрессировать на какое-то расстояние=" + transgressOnLength + " ";
     }
-
     public Hogwarts(String name, String faculty, int conjurePower, int transgressOnLength) {
         this.name = name;
         this.faculty = faculty;

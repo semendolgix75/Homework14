@@ -18,7 +18,6 @@ public class Hufflepuff extends Hogwarts {       //Пуффендуя трудо
                 ", честь=" + honest +
                 "} ";
     }
-
     public int getHardworking() {
         return hardworking;
     }
